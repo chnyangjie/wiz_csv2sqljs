@@ -1,0 +1,9 @@
+{
+  "name": "wiz_csv2sqljs",
+  "version": "1.0.0",
+  "description": "a javascript tool convert csv to sql",
+  "main": "index.js",
+  "repository": "git@github.com:chnyangjie/wiz_csv2sqljs.git",
+  "author": "chnyangjie@gmail.com",
+  "license": "MIT"
+}
